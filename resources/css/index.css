@@ -4,12 +4,21 @@
   size: 50px;
   opacity: 0.9;
 }
-.top-bar{
+header{
   background-color:  black;
+  border-bottom: 1px solid seashell;
+  size: 1200px 100px;
+  
+  
 }
 .top-text{
   color: seashell;
   opacity: 0.9;
   text-decoration: underline;
   display: inline;
+  text-align: right;
+}
+body{
+  background-image: url(../images/img-mission-background.jpg);
+  size: 700px;
 }

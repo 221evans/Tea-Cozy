@@ -1,0 +1,15 @@
+.logo{
+  color: seashell;
+  background-color: black;
+  size: 50px;
+  opacity: 0.9;
+}
+.top-bar{
+  background-color:  black;
+}
+.top-text{
+  color: seashell;
+  opacity: 0.9;
+  text-decoration: underline;
+  display: inline;
+}

@@ -1,5 +1,15 @@
-.logo{
+body{
+  background-image: url(../images/img-mission-background.jpg);
+  background-size: 1200px 800px;
+  font-size: 22px;
   color: seashell;
+  opacity: 0.9;
+  font-family: Helvetica;
+  background-color: black;
+}
+
+.logo{
+  
   background-color: black;
   size: 50px;
   opacity: 0.9;
@@ -12,13 +22,19 @@ header{
   
 }
 .top-text{
-  color: seashell;
+ 
   opacity: 0.9;
   text-decoration: underline;
   display: inline;
   text-align: right;
 }
-body{
-  background-image: url(../images/img-mission-background.jpg);
-  size: 700px;
+#mission{
+  background-color: black;
+  text-align: center;
+  margin-top: 200px;
+  
+  
 }
+
+
+
